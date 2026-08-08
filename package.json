@@ -1,0 +1,15 @@
+{
+  "name": "chatkick",
+  "version": "1.0.0",
+  "description": "WebSocket worker para chat de Kick.com → MDR Points",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
